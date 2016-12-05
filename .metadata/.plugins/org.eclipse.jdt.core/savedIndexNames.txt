@@ -1,0 +1,4 @@
+INDEX VERSION 1.129+C:\Users\APCS2\Desktop\FracCalcFinal\.metadata\.plugins\org.eclipse.jdt.core
+985286902.index
+639057739.index
+128482864.index
